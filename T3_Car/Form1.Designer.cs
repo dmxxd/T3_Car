@@ -35,7 +35,7 @@ namespace T3_Car
             this.label1.Name = "label1";
             this.label1.Size = new Size(282, 20);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Инициализаторы объектов и класс \"Автомобиль\"";
+            this.label1.Text = "Автомобиль";
 
             this.btnCreateCars.Location = new Point(15, 40);
             this.btnCreateCars.Name = "btnCreateCars";
